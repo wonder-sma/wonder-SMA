@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=wonder-sma&label=Profile%20views&color=0e75b6&style=flat" alt="wonder-sma" /> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Next.js, Nuxt.js**
 
 - 📫 How to reach me **wonderfuldays@yandex.ru**
 
