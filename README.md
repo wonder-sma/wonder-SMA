@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Maksim</h1>
-<h3 align="center">I'm a fullstack web developer</h3>
+<h3 align="center">I'm a Frontend developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=wonder-sma&label=Profile%20views&color=0e75b6&style=flat" alt="wonder-sma" /> </p>
 
 - 🌱 I’m currently learning **Next.js, Nuxt.js**
-
-- 📫 How to reach me **wonderfuldays@yandex.ru**
 
 ***
 
